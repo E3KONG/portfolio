@@ -1,0 +1,126 @@
+:root {
+    --split-ratio: 50%;
+    --margin-top-width: 10px;
+    --margin-side-width: 25px;
+    --color-text-main: #EEE;
+    --color-text-minor: #999;
+    --color-text-minor-dark: #333;
+    --color-dark-alpha: #00000000;
+    --color-background-dark: #000;
+
+    --color-highlight: hsl(20 100% 50%);
+    --color-highlight-dark: hsl(20 100% 5%);
+}
+
+::selection {
+    background: var(--color-highlight);
+    color: var(--color-background-dark);
+  }
+
+body {
+    margin: 0px;
+    font-family: "bicyclette", noto-sans-hk, sans-serif;
+    cursor: crosshair;
+    background-color: var(--color-background-dark);
+}
+.bg {
+    position: fixed;
+    background-color: var(--color-background-dark);
+    width: 100%; height: 100%;
+}
+
+
+/* general text */
+h1 {
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: italic;
+    font-variation-settings: "SOFT" 100, "WONK" 1;
+    color: var(--color-text-main);
+    font-size: 32px;
+    letter-spacing: 0.5px;
+    padding: 0px; margin: 0px;
+    text-transform: capitalize;
+}
+h2 {
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: italic;
+    font-variation-settings: "SOFT" 0, "WONK" 1;
+    color: var(--color-text-minor);
+    font-size: 32px;
+    letter-spacing: 0.5px;
+    padding: 0px; margin: 0px;
+    text-transform: capitalize;
+}
+h3 {
+    font-weight: 300;
+    font-style: normal;
+    color: #999;
+    font-size: 24px;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    padding: 0px; margin: 0px;
+    margin-top: -3px
+}
+h4 {
+    font-family: "gridlite-pe-variable",sans-serif;
+    font-variation-settings: 'wght' 750, 'BACK' 150, 'RECT' 150, 'ELSH' 3;
+    color: var(--color-highlight);
+    font-size: 5rem;
+    margin: auto;
+}
+p {
+    font-weight: 400;
+    font-style: normal;
+    color: #999;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    padding: 0px; margin: 0px;
+}
+
+
+/* navigation bar */
+nav {
+    position: fixed; top: 0;
+    width: 100%;
+    z-index: 10;
+    box-sizing: border-box;
+    padding: var(--margin-top-width) var(--margin-side-width);
+    display: inline-flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    border-bottom: 1px solid #eeeeee40;
+    backdrop-filter: blur(5px);
+    background-color: var(--color-dark-alpha);
+}
+nav a {
+    font-weight: 400;
+    font-style: normal;
+    color: var(--color-text-main);
+    opacity: 0.25;
+    font-size: 14px;
+    text-decoration: none;
+    transition: opacity 0.75s;
+}
+nav a:hover {
+    text-decoration: line-through;
+    opacity: 1;
+}
+#navicon {
+    position: fixed;
+    padding-top: var(--margin-top-width);
+    padding-left: var(--margin-side-width);
+    z-index: 11;
+
+    font-weight: 800;
+    font-style: normal;
+    color: var(--color-highlight);
+    opacity: 0.5;
+    font-size: 14px;
+}
+
+

@@ -1,0 +1,26 @@
+:root {
+    --color-background-dark: #000;
+}
+
+nav {
+    border-bottom: 0px;
+    backdrop-filter: blur(0px);
+}
+nav a {
+    opacity: 0.1;
+}
+#navicon {
+    color: var(--color-text-main);
+    opacity: 0.1;
+}
+
+h1 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%; left: 50%;
+    width: 100%;
+    color: #FFF;
+    font-size: 256px;
+    z-index: 9;
+    text-align: center;
+}

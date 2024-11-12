@@ -1,0 +1,9 @@
+#Dependencies
+/node_modules
+
+# vite package
+.package.json
+.package-lock.json
+
+#OS
+.DS_Store
