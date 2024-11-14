@@ -1,16 +1,17 @@
 import React, { useState, useEffect } from 'react';
-import projectList from './data/projectList.json'
+import projectList from '../data/projectList.json'
+
 
 export default function Split() {
     // Add state to track selected project index
     const [selectedIndex, setSelectedIndex] = useState();
 
     return <>
-        <div className="split left">
+        <div className='split left'>
             <SelectedProjectInfo i={selectedIndex} />
             <ImageMontage i={selectedIndex} />
         </div>
-        <div className="split right">
+        <div className='split right'>
             <IndexBlock onProjectHover={setSelectedIndex} />
         </div>
     </>
@@ -21,16 +22,16 @@ export default function Split() {
 function SVGDefinitions() {
     return <>
         <svg style={{ display: 'none' }}>
-            <symbol id="category-circle" viewBox="0 0 10 10">
-                <circle cx="5" cy="5" r="4.5" />
+            <symbol id='category-circle' viewBox='0 0 10 10'>
+                <circle cx='5' cy='5' r='4.5' />
             </symbol>
         </svg>
     </>
 }
 function CategorySVG () {
     return <>
-        <svg className="category" width="10" height="10">
-            <use href="#category-circle" />
+        <svg className='category' width='10' height='10'>
+            <use href='#category-circle' />
         </svg>
     </>
 }
@@ -48,19 +49,19 @@ function IndexBlock({ onProjectHover }) {
 
     return <>
         <SVGDefinitions />
-        <div className="indexblock-wrapper">
+        <div className='indexblock-wrapper'>
             {projectList.map((projectInfo, projectIndex) => (
-                <div className="indexblock" 
+                <div className='indexblock' 
                      key={projectIndex}
                      onMouseEnter={() => onProjectHover(projectIndex)}
                      onClick={(e) => handleClick(projectInfo, e)}
                 >
-                    <div className="indexblock-top">
+                    <div className='indexblock-top'>
                         <p> {projectInfo.PublishDate} </p>
                         <h3> {projectInfo.EngName} </h3>
                     </div>
-                    <div className="indexblock-bottom">
-                        <div className="indexblock-category">
+                    <div className='indexblock-bottom'>
+                        <div className='indexblock-category'>
                             {projectInfo.Field.map((field, fieldIndex) => (
                                 <p key={`${projectIndex}-${fieldIndex}`}>
                                     <CategorySVG />
@@ -93,22 +94,22 @@ const getProjectPageUrl = (projectInfo) => {
 function SelectedProjectInfo({ i }) {
     if (i === undefined || !projectList[i]) {
         return <>
-            <h1 className="indexHero">
+            <h1 className='indexHero'>
                 ETHAN KONG <br />
                 <div style={{color: 'var(--color-highlight)'}}>PORTFOLIO</div>
             </h1>
         </>;
     }
     return (
-        <div className="selected-project-info">
-            <div className="textblock-collumn">
+        <div className='selected-project-info'>
+            <div className='textblock-collumn'>
                 {projectList[i].Type.map((type, typeIndex) => (
-                    <p className="textblock type" key={`${i}-${typeIndex}`}>{type}</p>
+                    <p className='textblock type' key={`${i}-${typeIndex}`}>{type}</p>
                 ))}
             </div>
-            <div className="textblock-collumn">
-                <p className="textblock category">SKILLSET</p>
-                <div className="textblock skills">
+            <div className='textblock-collumn'>
+                <p className='textblock category'>SKILLSET</p>
+                <div className='textblock skills'>
                     {projectList[i].Skillsets.map((skill, skillIndex) => (
                         <React.Fragment key={`${i}-${skillIndex}`}>
                             <p>{skill}</p>
@@ -117,10 +118,10 @@ function SelectedProjectInfo({ i }) {
                     ))}
                 </div>
             </div>
-            <h2 className="textblock"> {projectList[i].EngName} </h2>
-            <div className="textblock-collumn">
-                <p className="textblock category">BRIEF</p>
-                <p className="textblock brief"> {projectList[i].Brief} </p>
+            <h2 className='textblock'> {projectList[i].EngName} </h2>
+            <div className='textblock-collumn'>
+                <p className='textblock category'>BRIEF</p>
+                <p className='textblock brief'> {projectList[i].Brief} </p>
             </div>
         </div>
     );

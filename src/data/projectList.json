@@ -1,467 +1,946 @@
 [
     {
-      "PublishDate": "2021/04/27",
-      "Name": "【動態圖解】電子煙、加熱菸是什麼？新型菸品演化大事記",
-      "Type": ["Article Content"],
-      "Field": ["Scroll Video", "Infographic"],
-      "Skillsets": ["3D", "Animation"],
-      "Tools": ["C4D"],
-      "Brief": "Providing 3D infographics explaining the evolution and components of e-cigarettes and heated tobacco products, highlighting their rise in Taiwan over the past decade.",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/e-cigarette-infographic",
-      "EngName": "deconstruct e-cigarette",
-      "Title": "E-CIGARETTE",
-      "IMG": ["./projects/210427_E-Cigarette/index/210427_E-Cigarette-01.png",
-              "./projects/210427_E-Cigarette/index/210427_E-Cigarette-02.png",
-              "./projects/210427_E-Cigarette/index/210427_E-Cigarette-03.png"]
+        "id": 1,
+        "Title": "e-cigraette",
+        "PublishDate": "2021/04/27",
+        "Name": "【動態圖解】電子煙、加熱菸是什麼？新型菸品演化大事記",
+        "EngName": "deconstructing e-cigarette",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Scroll Video",
+            "Infographic"
+        ],
+        "Skillsets": [
+            "3D",
+            "Animation"
+        ],
+        "Tools": [
+            "C4D"
+        ],
+        "Brief": "Providing 3D infographics explaining the evolution and components of e-cigarettes and heated tobacco products, highlighting their rise in Taiwan over the past decade.",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/e-cigarette-infographic",
+        "IMG": [
+            "./projects/210427_E-Cigarette/index/210427_E-Cigarette-01.png",
+            "./projects/210427_E-Cigarette/index/210427_E-Cigarette-02.png",
+            "./projects/210427_E-Cigarette/index/210427_E-Cigarette-03.png"
+        ]
     },
     {
-      "PublishDate": "2021/06/21",
-      "Name": "走進離散港人心裡的房間",
-      "Type": ["Article Content"],
-      "Field": ["Layout"],
-      "Skillsets": [""],
-      "Tools": ["Illustrator"],
-      "Brief": "Testing Briefs ........",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/podcast-on-the-ground-hongkongers",
-      "EngName": "Entering the Room of Dispersed Hong Kongers",
-      "Title": "",
-      "IMG": ["./projects/210621_RoomofHKer/index/210621_RoomofHKer-01.jpg",
-              "./projects/210621_RoomofHKer/index/210621_RoomofHKer-02.jpg"]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2021/06/21",
+        "Name": "走進離散港人心裡的房間",
+        "EngName": "Entering the Room of Dispersed Hong Kongers",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Layout"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Illustrator"
+        ],
+        "Brief": "Testing Briefs ........",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/podcast-on-the-ground-hongkongers",
+        "IMG": [
+            "./projects/210621_RoomofHKer/index/210621_RoomofHKer-01.jpg",
+            "./projects/210621_RoomofHKer/index/210621_RoomofHKer-02.jpg"
+        ]
     },
     {
-      "PublishDate": "2021/11/22",
-      "Name": "交友×PUA×假投資：分解「沉浸式詐騙」手法，你需要的4個反制手段",
-      "Type": ["Article Content"],
-      "Field": ["illustration", "Scroll Video"],
-      "Skillsets": ["Animation"],
-      "Tools": ["After Effect", "Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/online-scams-solutions",
-      "EngName": "online scams solutions",
-      "Title": "",
-      "IMG": ["./projects/211122_OnlineScamsSolutions/index/211122_OnlineScamsSolutions-01.gif"]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2021/11/22",
+        "Name": "交友×PUA×假投資：分解「沉浸式詐騙」手法，你需要的4個反制手段",
+        "EngName": "online scams solutions",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "illustration",
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "Animation"
+        ],
+        "Tools": [
+            "After Effect",
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/online-scams-solutions",
+        "IMG": [
+            "./projects/211122_OnlineScamsSolutions/index/211122_OnlineScamsSolutions-01.gif"
+        ]
     },
     {
-      "PublishDate": "2021/12/28",
-      "Name": "解藥，在哪裡？ COVID-19全球藥物開發與進展",
-      "Type": ["Landing Image"],
-      "Field": ["illustration"],
-      "Skillsets": ["Animation"],
-      "Tools": ["After Effect", "Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/covid-19-drugs",
-      "EngName": "covid-19 drugs",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2021/12/28",
+        "Name": "解藥，在哪裡？ COVID-19全球藥物開發與進展",
+        "EngName": "covid-19 drugs",
+        "Type": [
+            "Landing Image"
+        ],
+        "Field": [
+            "illustration"
+        ],
+        "Skillsets": [
+            "Animation"
+        ],
+        "Tools": [
+            "After Effect",
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/covid-19-drugs",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/03/12",
-      "Name": "報導者 × TIDF",
-      "Type": ["Social Media"],
-      "Field": ["Layout"],
-      "Skillsets": [""],
-      "Tools": ["Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.instagram.com/p/Cdp8yRnArd-/?img_index=1\nhttps://www.instagram.com/p/CdfdohfMCMN/?img_index=1\nhttps://www.instagram.com/p/Cde1IefJbU1/?img_index=1\nhttps://www.instagram.com/p/Cddhn_FJNki/?img_index=1",
-      "EngName": "The Reporter × TIDF",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/03/12",
+        "Name": "報導者 × TIDF",
+        "EngName": "The Reporter × TIDF",
+        "Type": [
+            "Social Media"
+        ],
+        "Field": [
+            "Layout"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.instagram.com/p/Cdp8yRnArd-/?img_index=1\nhttps://www.instagram.com/p/CdfdohfMCMN/?img_index=1\nhttps://www.instagram.com/p/Cde1IefJbU1/?img_index=1\nhttps://www.instagram.com/p/Cddhn_FJNki/?img_index=1",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/07/10",
-      "Name": "【圖解】太平洋邊上的太空夢",
-      "Type": ["Article Content", "Social Media"],
-      "Field": ["illustration", "Scroll Video"],
-      "Skillsets": ["3D", "Animation"],
-      "Tools": ["After Effect", "Blender"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/arrc-rocket-flight-test-at-syuhai",
-      "EngName": "ARRC rocket fligh test at Syuhai",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/07/10",
+        "Name": "【圖解】太平洋邊上的太空夢",
+        "EngName": "ARRC rocket fligh test at Syuhai",
+        "Type": [
+            "Article Content",
+            "Social Media"
+        ],
+        "Field": [
+            "illustration",
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "3D",
+            "Animation"
+        ],
+        "Tools": [
+            "After Effect",
+            "Blender"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/arrc-rocket-flight-test-at-syuhai",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/07/11",
-      "Name": "一支台灣自製的科研火箭如何升空？",
-      "Type": ["Social Media"],
-      "Field": ["illustration", "Scroll Video", "Infographic"],
-      "Skillsets": ["3D", "Animation"],
-      "Tools": ["Blender", "Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.instagram.com/p/Cf3zJUjvBB2/?img_index=1",
-      "EngName": "how do MIT rocket lift off",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/07/11",
+        "Name": "一支台灣自製的科研火箭如何升空？",
+        "EngName": "how do MIT rocket lift off",
+        "Type": [
+            "Social Media"
+        ],
+        "Field": [
+            "illustration",
+            "Scroll Video",
+            "Infographic"
+        ],
+        "Skillsets": [
+            "3D",
+            "Animation"
+        ],
+        "Tools": [
+            "Blender",
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.instagram.com/p/Cf3zJUjvBB2/?img_index=1",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/08/11",
-      "Name": "柬埔寨人口販運",
-      "Type": ["Article Content", "Social Media"],
-      "Field": ["Layout"],
-      "Skillsets": [""],
-      "Tools": ["Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.instagram.com/p/ChHCRUOumpL/?img_index=1",
-      "EngName": "Cambodia Taiwanese human trafficking survivors",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/08/11",
+        "Name": "柬埔寨人口販運",
+        "EngName": "Cambodia Taiwanese human trafficking survivors",
+        "Type": [
+            "Article Content",
+            "Social Media"
+        ],
+        "Field": [
+            "Layout"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.instagram.com/p/ChHCRUOumpL/?img_index=1",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/08/24",
-      "Name": "從犯罪公路到公有地──衛星圖解全台廢棄物濫倒熱區",
-      "Type": ["Article Content"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Map Design"],
-      "Tools": ["Illustrator", "QGIS"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/enterprise-wastes-black-market-satellite-images-find-abandoned-dirt-and-waste",
-      "EngName": "Satellite Images Reveal Illegal Dumping of Industrial Waste",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/08/24",
+        "Name": "從犯罪公路到公有地──衛星圖解全台廢棄物濫倒熱區",
+        "EngName": "Satellite Images Reveal Illegal Dumping of Industrial Waste",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Map Design"
+        ],
+        "Tools": [
+            "Illustrator",
+            "QGIS"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/enterprise-wastes-black-market-satellite-images-find-abandoned-dirt-and-waste",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/08/24",
-      "Name": "還原一場12小時內湮滅的犯罪──數萬噸廢棄物，如何悄悄埋入台糖土地深處？",
-      "Type": [""],
-      "Field": ["Scroll Video"],
-      "Skillsets": ["3D", "Animation"],
-      "Tools": ["After Effect"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/enterprise-wastes-black-market-back-to-the-crime-scene",
-      "EngName": "black market wastes : returns to the crime scene",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/08/24",
+        "Name": "還原一場12小時內湮滅的犯罪──數萬噸廢棄物，如何悄悄埋入台糖土地深處？",
+        "EngName": "black market wastes : returns to the crime scene",
+        "Type": [
+            ""
+        ],
+        "Field": [
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "3D",
+            "Animation"
+        ],
+        "Tools": [
+            "After Effect"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/enterprise-wastes-black-market-back-to-the-crime-scene",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/11/17",
-      "Name": "【總論篇】檢視六都市長候選人政見：撒錢補助居多、缺跨域整合概念",
-      "Type": ["Article Content", "Social Media"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Front-End Coding"],
-      "Tools": ["Flourish"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/2022-local-elections-municipality-mayor-candidates-policies-introduction",
-      "EngName": "2022 Local Election Mayoral Candidates Policy Overview",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/11/17",
+        "Name": "【總論篇】檢視六都市長候選人政見：撒錢補助居多、缺跨域整合概念",
+        "EngName": "2022 Local Election Mayoral Candidates Policy Overview",
+        "Type": [
+            "Article Content",
+            "Social Media"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Front-End Coding"
+        ],
+        "Tools": [
+            "Flourish"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/2022-local-elections-municipality-mayor-candidates-policies-introduction",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/11/18",
-      "Name": "六都市長候選人關鍵政策總體檢",
-      "Type": ["Social Media"],
-      "Field": ["Layout"],
-      "Skillsets": [""],
-      "Tools": ["Figma", "Flourish"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.instagram.com/p/ClFq1FLOIYm/?img_index=1",
-      "EngName": "2022 Key Policy Review of Six Mayoral Candidates",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/11/18",
+        "Name": "六都市長候選人關鍵政策總體檢",
+        "EngName": "2022 Key Policy Review of Six Mayoral Candidates",
+        "Type": [
+            "Social Media"
+        ],
+        "Field": [
+            "Layout"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Figma",
+            "Flourish"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.instagram.com/p/ClFq1FLOIYm/?img_index=1",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/11/22",
-      "Name": "基輔戰時片刻：宵禁下仍要起舞、住火車上仍要生活",
-      "Type": ["Article Content"],
-      "Field": ["Layout", "Scroll Video"],
-      "Skillsets": ["Animation"],
-      "Tools": ["After Effect"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/russian-invasion-of-ukraine-2022-kyiv-hvlv-museum-train",
-      "EngName": "Russian invasion of Ukraine 2022 : Kyiv Hvlv museum train",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/11/22",
+        "Name": "基輔戰時片刻：宵禁下仍要起舞、住火車上仍要生活",
+        "EngName": "Russian invasion of Ukraine 2022 : Kyiv Hvlv museum train",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Layout",
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "Animation"
+        ],
+        "Tools": [
+            "After Effect"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/russian-invasion-of-ukraine-2022-kyiv-hvlv-museum-train",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2022/12/27",
-      "Name": "如果你也在現場：直擊戰爭陰影下的烏克蘭小鎮",
-      "Type": ["Article Content"],
-      "Field": ["Scroll Video"],
-      "Skillsets": ["Video Editting"],
-      "Tools": ["After Effect"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/i/russian-invasion-of-ukraine-2022-return-to-the-scene-gcs",
-      "EngName": "Russian invasion of ukraine 2022 : return to the scene GCS",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2022/12/27",
+        "Name": "如果你也在現場：直擊戰爭陰影下的烏克蘭小鎮",
+        "EngName": "Russian invasion of ukraine 2022 : return to the scene GCS",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "Video Editting"
+        ],
+        "Tools": [
+            "After Effect"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/i/russian-invasion-of-ukraine-2022-return-to-the-scene-gcs",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2023/02/27",
-      "Name": "黨產會認定671筆不當黨產之不動產，數據帶你看哪裡最多？成功追討僅6%",
-      "Type": ["Landing Image"],
-      "Field": ["illustration"],
-      "Skillsets": [""],
-      "Tools": ["Illustrator", "QGIS"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/data-reporter-ill-gotten-party-assets",
-      "EngName": "ill gotten party assets",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2023/02/27",
+        "Name": "黨產會認定671筆不當黨產之不動產，數據帶你看哪裡最多？成功追討僅6%",
+        "EngName": "ill gotten party assets",
+        "Type": [
+            "Landing Image"
+        ],
+        "Field": [
+            "illustration"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Illustrator",
+            "QGIS"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/data-reporter-ill-gotten-party-assets",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2023/03/22",
-      "Name": "美、日職決戰WBC！經典賽後棒球排名最新變化、台灣世界第四積分怎麼來？數據告訴你",
-      "Type": ["Landing Image"],
-      "Field": ["illustration"],
-      "Skillsets": [""],
-      "Tools": ["Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/data-reporter-wbc",
-      "EngName": "World Baseball Classic data analysis",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2023/03/22",
+        "Name": "美、日職決戰WBC！經典賽後棒球排名最新變化、台灣世界第四積分怎麼來？數據告訴你",
+        "EngName": "World Baseball Classic data analysis",
+        "Type": [
+            "Landing Image"
+        ],
+        "Field": [
+            "illustration"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/data-reporter-wbc",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2023/04/27",
-      "Name": "海峽下的風暴 — 中國盜砂船入侵下快速消失的台灣海砂、魚群，與被毀的電纜",
-      "Type": ["Article Content", "Landing Image"],
-      "Field": ["illustration", "Scroll Video"],
-      "Skillsets": ["3D", "Animation", "Map Design"],
-      "Tools": ["After Effect", "Blender", "QGIS"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/topics/china-dredging",
-      "EngName": "China dredging : the business supply chain",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2023/04/27",
+        "Name": "海峽下的風暴 — 中國盜砂船入侵下快速消失的台灣海砂、魚群，與被毀的電纜",
+        "EngName": "China dredging : the business supply chain",
+        "Type": [
+            "Article Content",
+            "Landing Image"
+        ],
+        "Field": [
+            "illustration",
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "3D",
+            "Animation",
+            "Map Design"
+        ],
+        "Tools": [
+            "After Effect",
+            "Blender",
+            "QGIS"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/topics/china-dredging",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2023/07/03",
-      "Name": "中國父母一鍵下單，台灣卵子過海入庫：直擊年輕女性美國捐卵之旅",
-      "Type": ["Article Content", "Landing Image"],
-      "Field": ["Scroll Video"],
-      "Skillsets": ["Animation", "Front-End Coding"],
-      "Tools": ["After Effect", "Illustrator", "MidJourney"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/cross-border-egg-donation-multimedia",
-      "EngName": "cross border egg donation multimedia",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2023/07/03",
+        "Name": "中國父母一鍵下單，台灣卵子過海入庫：直擊年輕女性美國捐卵之旅",
+        "EngName": "cross border egg donation multimedia",
+        "Type": [
+            "Article Content",
+            "Landing Image"
+        ],
+        "Field": [
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "Animation",
+            "Front-End Coding"
+        ],
+        "Tools": [
+            "After Effect",
+            "Illustrator",
+            "MidJourney"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/cross-border-egg-donation-multimedia",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2023/07/31",
-      "Name": "台灣黑熊頻現蹤，我們準備好當「有熊國」居民了嗎？",
-      "Type": ["Article Content"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Map Design"],
-      "Tools": ["Flourish", "Illustrator", "QGIS"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/ursus-thibetanus-formosanus-conservation",
-      "EngName": "ursus thibetanus formosanus conservation",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2023/07/31",
+        "Name": "台灣黑熊頻現蹤，我們準備好當「有熊國」居民了嗎？",
+        "EngName": "ursus thibetanus formosanus conservation",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Map Design"
+        ],
+        "Tools": [
+            "Flourish",
+            "Illustrator",
+            "QGIS"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/ursus-thibetanus-formosanus-conservation",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2023/10/17",
-      "Name": "【圖解】解放軍如何進逼第一島鏈：台海衝突下牽動的美日軍事布局",
-      "Type": ["Article Content"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Animation", "Map Design"],
-      "Tools": ["After Effect", "QGIS"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/taiwanyuji-first-island-chain-military-movement-multimedia",
-      "EngName": "Taiwanyuji first island chain : military movement multimedia",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2023/10/17",
+        "Name": "【圖解】解放軍如何進逼第一島鏈：台海衝突下牽動的美日軍事布局",
+        "EngName": "Taiwanyuji first island chain : military movement multimedia",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Animation",
+            "Map Design"
+        ],
+        "Tools": [
+            "After Effect",
+            "QGIS"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/taiwanyuji-first-island-chain-military-movement-multimedia",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2023/12/02",
-      "Name": "70年後，他仍是…怪獸之王",
-      "Type": ["Social Media"],
-      "Field": ["illustration"],
-      "Skillsets": ["3D"],
-      "Tools": ["Blender", "Figma"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.instagram.com/p/C0ViJzLtP2f/?img_index=1",
-      "EngName": "70 Years On, Godzilla Remains the King of Monsters",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2023/12/02",
+        "Name": "70年後，他仍是…怪獸之王",
+        "EngName": "70 Years On, Godzilla Remains the King of Monsters",
+        "Type": [
+            "Social Media"
+        ],
+        "Field": [
+            "illustration"
+        ],
+        "Skillsets": [
+            "3D"
+        ],
+        "Tools": [
+            "Blender",
+            "Figma"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.instagram.com/p/C0ViJzLtP2f/?img_index=1",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2023/12/26",
-      "Name": "報導者年末企劃：From Eight to Infinity",
-      "Type": ["Campaign Visual"],
-      "Field": ["illustration"],
-      "Skillsets": ["3D", "Animation"],
-      "Tools": ["After Effect", "Blender"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "",
-      "EngName": "the Reporter 8 Year Special 🡒 ♾ ",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2023/12/26",
+        "Name": "報導者年末企劃：From Eight to Infinity",
+        "EngName": "the Reporter 8 Year Special 🡒 ♾ ",
+        "Type": [
+            "Campaign Visual"
+        ],
+        "Field": [
+            "illustration"
+        ],
+        "Skillsets": [
+            "3D",
+            "Animation"
+        ],
+        "Tools": [
+            "After Effect",
+            "Blender"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/01/08",
-      "Name": "你家立委4年來為哪些議題發聲？各黨立委質詢主題有何差異？馬上查閱每位立委5大關注議題",
-      "Type": ["Article Content"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Front-End Coding"],
-      "Tools": ["Flourish"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/data-reporter-2024-election-10th-legislators-performance",
-      "EngName": "2024 election 10th legislators performance",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/01/08",
+        "Name": "你家立委4年來為哪些議題發聲？各黨立委質詢主題有何差異？馬上查閱每位立委5大關注議題",
+        "EngName": "2024 election 10th legislators performance",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Front-End Coding"
+        ],
+        "Tools": [
+            "Flourish"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/data-reporter-2024-election-10th-legislators-performance",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/01/10",
-      "Name": "【總統政見20問】柯賴侯三人如何面對國政難題？",
-      "Type": ["Article Content"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Front-End Coding"],
-      "Tools": ["Flourish"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/2024-election-presidential-candidates-policies-introduction",
-      "EngName": "2024 election presidential candidates policies introduction",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/01/10",
+        "Name": "【總統政見20問】柯賴侯三人如何面對國政難題？",
+        "EngName": "2024 election presidential candidates policies introduction",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Front-End Coding"
+        ],
+        "Tools": [
+            "Flourish"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/2024-election-presidential-candidates-policies-introduction",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/01/16",
-      "Name": "35張圖表，帶你看2024大選關鍵結果",
-      "Type": ["Social Media"],
-      "Field": ["Data Visalization", "Instant Update"],
-      "Skillsets": [""],
-      "Tools": ["Figma"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/2024-election-results-chart",
-      "EngName": "2024 election results chart",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/01/16",
+        "Name": "35張圖表，帶你看2024大選關鍵結果",
+        "EngName": "2024 election results chart",
+        "Type": [
+            "Social Media"
+        ],
+        "Field": [
+            "Data Visalization",
+            "Instant Update"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Figma"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/2024-election-results-chart",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/03/12",
-      "Name": "318太陽花 —— 8個穿越十年的關鍵字",
-      "Type": ["Social Media"],
-      "Field": ["Layout"],
-      "Skillsets": [""],
-      "Tools": ["Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.instagram.com/p/C4ad_9VrTXC/?img_index=1",
-      "EngName": "8 keywords of 318 movement",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/03/12",
+        "Name": "318太陽花 —— 8個穿越十年的關鍵字",
+        "EngName": "8 keywords of 318 movement",
+        "Type": [
+            "Social Media"
+        ],
+        "Field": [
+            "Layout"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.instagram.com/p/C4ad_9VrTXC/?img_index=1",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/03/15",
-      "Name": "10年回望：從太陽花抗爭者到「後318世代」",
-      "Type": ["Article Content", "Landing Image"],
-      "Field": ["Layout", "Scroll Video"],
-      "Skillsets": ["Animation"],
-      "Tools": ["After Effect", "Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/topics/318-movement-10th-anniversary",
-      "EngName": "318 movement 10th anniversary",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/03/15",
+        "Name": "10年回望：從太陽花抗爭者到「後318世代」",
+        "EngName": "318 movement 10th anniversary",
+        "Type": [
+            "Article Content",
+            "Landing Image"
+        ],
+        "Field": [
+            "Layout",
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "Animation"
+        ],
+        "Tools": [
+            "After Effect",
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/topics/318-movement-10th-anniversary",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/04/02",
-      "Name": "台北市YouBike多熱門？重啟「前30分鐘免費」後更難借嗎？數據告訴你",
-      "Type": ["Article Content"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Map Design"],
-      "Tools": [""],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/data-reporter-taipei-youbike-free-ride-for-the-first-30-minutes",
-      "EngName": "Taipei Youbike free ride for the first 30 minutes",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/04/02",
+        "Name": "台北市YouBike多熱門？重啟「前30分鐘免費」後更難借嗎？數據告訴你",
+        "EngName": "Taipei Youbike free ride for the first 30 minutes",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Map Design"
+        ],
+        "Tools": [
+            ""
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/data-reporter-taipei-youbike-free-ride-for-the-first-30-minutes",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/05/16",
-      "Name": "1996年後新總統首任內閣比一比：賴政府非綠閣員占比低於扁蔡、內閣最老但國安團隊最年輕",
-      "Type": ["Article Content", "Landing Image"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Front-End Coding"],
-      "Tools": ["Figma", "Flourish"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/data-reporter-the-composition-of-first-cabinet-after-1996",
-      "EngName": "the composition of first cabinet after 1996",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/05/16",
+        "Name": "1996年後新總統首任內閣比一比：賴政府非綠閣員占比低於扁蔡、內閣最老但國安團隊最年輕",
+        "EngName": "the composition of first cabinet after 1996",
+        "Type": [
+            "Article Content",
+            "Landing Image"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Front-End Coding"
+        ],
+        "Tools": [
+            "Figma",
+            "Flourish"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/data-reporter-the-composition-of-first-cabinet-after-1996",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/06/13",
-      "Name": "香港．不關燈",
-      "Type": ["Campaign Visual"],
-      "Field": ["illustration"],
-      "Skillsets": [""],
-      "Tools": ["Illustrator", "Procreate"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "",
-      "EngName": "Lights On Hong Kong",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/06/13",
+        "Name": "香港．不關燈",
+        "EngName": "Lights On Hong Kong",
+        "Type": [
+            "Campaign Visual"
+        ],
+        "Field": [
+            "illustration"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "Illustrator",
+            "Procreate"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/06/13",
-      "Name": "香港．記得",
-      "Type": ["Landing Image"],
-      "Field": ["Scroll Video"],
-      "Skillsets": [""],
-      "Tools": ["After Effect", "MidJourney"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/topics/never-forget-hong-kong",
-      "EngName": "never forget Hong Kong",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/06/13",
+        "Name": "香港．記得",
+        "EngName": "never forget Hong Kong",
+        "Type": [
+            "Landing Image"
+        ],
+        "Field": [
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            ""
+        ],
+        "Tools": [
+            "After Effect",
+            "MidJourney"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/topics/never-forget-hong-kong",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/06/27",
-      "Name": "用字體留住消逝的街景記憶──香港的野生造字人們",
-      "Type": ["Article Content"],
-      "Field": ["Scroll Video"],
-      "Skillsets": ["3D", "Animation"],
-      "Tools": ["After Effect", "Blender", "Illustrator"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/never-forget-hong-kong-vanishing-street-and-font-designers",
-      "EngName": "never forget Hong Kong : vanishing street and font designers",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/06/27",
+        "Name": "用字體留住消逝的街景記憶──香港的野生造字人們",
+        "EngName": "never forget Hong Kong : vanishing street and font designers",
+        "Type": [
+            "Article Content"
+        ],
+        "Field": [
+            "Scroll Video"
+        ],
+        "Skillsets": [
+            "3D",
+            "Animation"
+        ],
+        "Tools": [
+            "After Effect",
+            "Blender",
+            "Illustrator"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/never-forget-hong-kong-vanishing-street-and-font-designers",
+        "IMG": [
+            ""
+        ]
     },
     {
-      "PublishDate": "2024/09/19",
-      "Name": "國土計畫難逃開發邏輯？各縣市爭議何在？地圖全解析",
-      "Type": ["Article Content", "Landing Image"],
-      "Field": ["Data Visalization"],
-      "Skillsets": ["Map Design"],
-      "Tools": ["After Effect", "QGIS"],
-      "Brief": "",
-      "Awards": [""],
-      "URL": "https://www.twreporter.org/a/data-reporter-functional-zone-of-spatial-planning-in-turmoil",
-      "EngName": "functional zone of spatial planning in turmoil",
-      "Title": "",
-      "IMG": [""]
+        "id": 0,
+        "Title": "",
+        "PublishDate": "2024/09/19",
+        "Name": "國土計畫難逃開發邏輯？各縣市爭議何在？地圖全解析",
+        "EngName": "functional zone of spatial planning in turmoil",
+        "Type": [
+            "Article Content",
+            "Landing Image"
+        ],
+        "Field": [
+            "Data Visalization"
+        ],
+        "Skillsets": [
+            "Map Design"
+        ],
+        "Tools": [
+            "After Effect",
+            "QGIS"
+        ],
+        "Brief": "",
+        "Awards": [
+            ""
+        ],
+        "URL": "https://www.twreporter.org/a/data-reporter-functional-zone-of-spatial-planning-in-turmoil",
+        "IMG": [
+            ""
+        ]
     }
-  ]
+]
